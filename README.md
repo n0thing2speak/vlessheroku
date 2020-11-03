@@ -9,13 +9,13 @@ vless 性能更加优秀，占用资源更少。
 
 经测试本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGeekNAUer%2Fvlessheroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/n0thing2speak/vlessheroku)
 
 ## 注意
 
 ### 路径
 
-`WebSocket` 路径(配置文件中的 `path` )为 `/app` 。
+`WebSocket` 路径(配置文件中的 `path` )为 `/video` 。
 
 ### 端口
 
@@ -23,7 +23,7 @@ vless 性能更加优秀，占用资源更少。
 
 ### alterId
 
-`alterId` 为 `0` 。
+`alterId` 为 `996` 。
 
 ### UUID
 
