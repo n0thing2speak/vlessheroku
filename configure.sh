@@ -33,7 +33,7 @@ cat << EOF > /usr/local/etc/v2ray/config.json
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/app"
+          "path": "/video"
         }
       }
     }
